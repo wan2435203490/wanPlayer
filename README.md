@@ -36,6 +36,9 @@ pnpm install
 # 或者
 npm install
 
+#eslint
+npm run lint
+
 # 本地运行 wanPlayer
 npm run serve
 

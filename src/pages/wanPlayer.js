@@ -87,7 +87,7 @@ const wanPlayerMusic = {
     ele.onpause = () => {
       that.setPlaying(false)
     }
-  }
+  },
 }
 
 export default wanPlayerMusic
